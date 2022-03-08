@@ -1,0 +1,8 @@
+discord.py
+discord
+requests
+aiohttp-retry
+PyPDF2
+bs4
+httpx
+python-docx

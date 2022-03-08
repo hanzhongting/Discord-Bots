@@ -1,0 +1,1 @@
+Logs which servers the bot has left/kicked from

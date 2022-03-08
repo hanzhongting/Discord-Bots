@@ -1,0 +1,2 @@
+sd_list = [['Kingston Canvas Select Plus, 256GB microSDXC Memory Card, Class 10, UHS-I, U3, V30, A1, Up to 100MB/s Read and 85MB/s Write (SDCS2/256GBCR)', '1+', '-', '3', '1', '2', '2', '-', '-', '-', '4', '5+', '4', '-', '5+', '4', '1', '4', '2', '-', '-', '-', '-', '5+', '3', '-', '-', '-', '-', '5+']]
+links = ["https://www.canadacomputers.com/product_info.php?cPath=11_175_177&item_id=158902"]
